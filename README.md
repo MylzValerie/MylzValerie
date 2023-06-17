@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MylzValerie
-- 👀 I’m interested in learning web development.
-- 🌱 I’m currently learning web site front end.
+- 👀 I’m interested in learning back-end development.
+- 🌱 I’m currently learning SQL database management and PHP.
 - 💞️ I’m looking to collaborate on someone who can help me.
 - 📫 You can reach me through my Facebook account - https://facebook.com/valeriemylz.park and twitter https://twitter.com/MylzPaler?s=09 
 
